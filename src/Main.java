@@ -8,6 +8,7 @@
 public class Main {
     public static void main(String[] args) {
         //kfldsjfklsdjflkdjfdskl
+        System.out.println(""6666666666666);
         System.out.println("ddd");
     }
 }
